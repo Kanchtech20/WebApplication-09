@@ -2,6 +2,8 @@ package com.dataTyepes;
 
 public class DataTypDemo {
 
+
+.//this is for tounderstand the stash
 	public static void main(String[] args) {
 		
 			
